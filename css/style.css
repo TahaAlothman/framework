@@ -56,3 +56,28 @@ body{
    object-fit: cover;
     border-radius: 20px
 }
+.span2{
+    
+     color:  #13E5C0;
+    margin-bottom: 35px;
+    }
+.tittl2{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.subtittle2{
+    font-size: 17px;
+}
+.img2{
+    width: 628px;
+    height: 530px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.smallspn2{
+    border: 2px dashed black;
+    border-radius: 50%;
+    color:  #13E5C0;
+    
+}
