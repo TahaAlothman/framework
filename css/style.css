@@ -34,7 +34,7 @@ body{
 }
 .framdiv{
     display: inline-block;
-    width: 25%;
+    width: 22%;
     height: 50px;
     border: 2px dashed black;
     background-color: white;
@@ -49,6 +49,12 @@ body{
 .subtittle1{
     font-size: 21px;
 }
+.spn1{
+    border: 1px dashed black;
+    border-radius: 50%;
+    color:  white;
+    background-color: #13E5C0;
+}
 .img1{
     margin: -10px 90px;
     width:100%;
@@ -57,7 +63,7 @@ body{
     border-radius: 20px
 }
 .span2{
-    
+    padding-right: 20px;
      color:  #13E5C0;
     margin-bottom: 35px;
     }
