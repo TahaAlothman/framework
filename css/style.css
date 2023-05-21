@@ -125,3 +125,22 @@ body{
      color:  #13E5C0;
    margin-top: 28px;
     }
+    .divsecond{
+        width: 100%;
+        height: 653px;
+        background-color: #19303D;
+        color: white;
+        border-radius: 10px;
+    }
+    .divsecond2{
+        width: 100%;
+        height: 300px;
+        border: 2px dashed black;
+        border-radius: 10px;
+    }
+    .spanSecond{
+        border: 1px solid #19303D;
+        border-radius: 50%;
+        background-color: #19303D;
+        color: white;
+    }
