@@ -9,6 +9,14 @@ body{
     font-size: 27px;
     padding-right: 42px;
 }
+.mynavbar{
+    background-color: #C6FFE0;
+    height: 90px;
+  
+}
+.pt{
+    margin-top: -1px;
+}
 .nav-item{
     font-size: 18px;
     padding-right: 25px;
