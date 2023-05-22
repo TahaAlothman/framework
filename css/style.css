@@ -175,5 +175,21 @@ body{
      object-fit: cover;
     border-radius: 20px;
     margin: 15px 0px 50px 0px;
-
+    }
+    .mydiv5{
+        border: 2px dashed black;
+        display: inline-block;
+        background-color: #F4FCF9;
+    }
+    .tittle5{
+        font-size: 60px;
+    }
+    .div5tittle{
+        font-size:55px;
+        padding: 20px 21px 21px 25px;
+    }
+    .div5subtittle{
+        font-size:20px;
+        padding: 20px 21px 21px 25px;
+      
     }
